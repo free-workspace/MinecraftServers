@@ -1,0 +1,4 @@
+# Configuration for the random teleport command.
+# Some settings may be defaulted, and can be changed via the /settpr command in-game.
+min-range: 0.0
+

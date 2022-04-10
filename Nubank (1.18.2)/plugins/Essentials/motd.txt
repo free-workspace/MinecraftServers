@@ -1,0 +1,3 @@
+&7Você entrou no Servidor &5Nubank&7.
+&7Digite "&2/?&7" para ver a lista de comandos.
+&aSeed&f: &2-5266363515487236085
