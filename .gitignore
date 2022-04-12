@@ -1,10 +1,11 @@
-# Ignore .jar files. Just configuration files and folder are importants.
-*.jar
+# For Spigot Servers:
+  # Ignore .jar files. Just configuration files and folder are importants.
+  *.jar
 
-# Ignore the log's folder. Logs aren't import for backup in my situation.
-logs/
+  # Ignore the log's folder. Logs aren't import for backup in my situation.
+  logs/
 
-# Other files that aren't important:
-*/spigot.yml
-*/help.yml
-*/eula.txt
+  # Other files that aren't important:
+  */spigot.yml
+  */help.yml
+  */eula.txt
