@@ -1,13 +1,18 @@
 <h3 align="center">Nubank</h3>
-<h6 align="center">Spigot Server - 1.18.2</h6>
+<h6 align="center">Spigot Server - 1.18.2, 10/04/22</h6>
 
 ---
 
 #### <a href="https://github.com/free-workspace/MinecraftServers">ᐸ</a>   <a href="https://github.com/free-workspace/MinecraftServers/tree/main/Nubank">⭮</a>   ᐳ
 
 ### Run files
-| <b>Windows</b>: <a href="https://github.com/free-workspace/MinecraftServers/blob/main/Nubank/start.bat">start.bat</a><br>
-| <b>Linux</b>: <a href="https://github.com/free-workspace/MinecraftServers/blob/main/Nubank/start.sh">start.sh</a>
+<b>Windows</b>: <a href="https://github.com/free-workspace/MinecraftServers/blob/main/Nubank/start.bat">start.bat</a><br>
+<b>Linux</b>: <a href="https://github.com/free-workspace/MinecraftServers/blob/main/Nubank/start.sh">start.sh</a>
+
+### Server Data
+- <b>Overworld</b>: Nubank/ <a href="https://github.com/free-workspace/MinecraftServers/tree/main/Nubank/Nubank">⇢</a>
+- <b>Nether</b>: Nubank_nether/ <a href="https://github.com/free-workspace/MinecraftServers/tree/main/Nubank/Nubank_nether">⇢</a>
+- <b>The End</b>: Nubank_the_end/ <a href="https://github.com/free-workspace/MinecraftServers/tree/main/Nubank/Nubank_the_end">⇢</a>
 
 ### Server Configuration
 - <b>User Cache</b>: usercache.json <a href="https://github.com/free-workspace/MinecraftServers/blob/main/Nubank/usercache.json">⇢</a>
