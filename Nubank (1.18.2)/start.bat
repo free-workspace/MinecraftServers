@@ -1,4 +1,4 @@
 :: Run file for Windows
 
-java -Xmx4G -Xms4G -jar insert-spigot-file-here.jar nogui
+java -Xmx<insert-the-amount-of-RAM>G -Xms<insert-the-amount-of-RAM>G -jar <insert-spigot-file-name-here>.jar nogui
 pause
