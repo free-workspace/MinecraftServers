@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 26.1.95.77
+ip-address: 25.92.220.66
 afk: false
 socialspy: false
 npc: false
@@ -16,23 +16,23 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1649559771828
-  login: 1649557655789
-money: '1000'
+  logout: 1649965283916
+  login: 1649964888488
+money: '300'
 last-account-name: Salarc_
 logoutlocation:
   world: 559e5f56-c4f2-4806-a3c1-01c1731cdca7
   world-name: Nubank
-  x: 566.4185856758914
-  y: 67.0
-  z: 801.3000000119209
-  yaw: -160.6498565673828
-  pitch: 3.9000167846679688
+  x: 16.4606528482864
+  y: 6.0
+  z: -45.39705235429189
+  yaw: -95.53411865234375
+  pitch: -0.7504575252532959
 lastlocation:
   world: 559e5f56-c4f2-4806-a3c1-01c1731cdca7
   world-name: Nubank
-  x: -224.52022954404
-  y: 0.0
-  z: 282.42240850179303
-  yaw: -146.41537475585938
-  pitch: 7.049697399139404
+  x: 16.4606528482864
+  y: 6.0
+  z: -45.39705235429189
+  yaw: -95.53411865234375
+  pitch: -0.7504575252532959

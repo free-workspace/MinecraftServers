@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 26.211.43.234
+ip-address: 25.11.33.171
 afk: false
 socialspy: false
 npc: false
@@ -16,19 +16,19 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1649563616814
-  login: 1649563641994
-money: '0'
+  logout: 1649965390449
+  login: 1649965144917
+money: '300'
 last-account-name: iCarlyyy
 nickname: §4LuizSocafofo
 logoutlocation:
   world: 559e5f56-c4f2-4806-a3c1-01c1731cdca7
   world-name: Nubank
-  x: -294.95539681524787
-  y: 64.0
-  z: 165.5588024066795
-  yaw: -157.1864013671875
-  pitch: 17.527454376220703
+  x: -1214.6749273739633
+  y: 68.49520087700593
+  z: 910.3263776810617
+  yaw: 29.065839767456055
+  pitch: 11.08263111114502
 lastlocation:
   world: 559e5f56-c4f2-4806-a3c1-01c1731cdca7
   world-name: Nubank

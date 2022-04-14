@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 26.210.136.222
+ip-address: 25.14.83.45
 afk: false
 socialspy: false
 npc: false
@@ -11,20 +11,29 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1649549938175
+  lastteleport: 1649752451487
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1649557222395
-  login: 1649557092089
-money: '1000'
+  logout: 1649816408440
+  login: 1649814804628
+money: '200'
 last-account-name: Aeraky
 logoutlocation:
   world: 559e5f56-c4f2-4806-a3c1-01c1731cdca7
   world-name: Nubank
-  x: 107.20753107381064
-  y: 63.0
-  z: 123.62671368715522
-  yaw: -66.72504425048828
-  pitch: 47.5217170715332
+  x: -157.91295573935474
+  y: 69.0
+  z: 198.27574551115782
+  yaw: 130.7126007080078
+  pitch: 48.27637481689453
+lastlocation:
+  world: 559e5f56-c4f2-4806-a3c1-01c1731cdca7
+  world-name: Nubank
+  x: -178.2149290910551
+  y: 88.55371602798215
+  z: 263.54488382601124
+  yaw: 73.48983764648438
+  pitch: 17.27306365966797
+nickname: §dBeatriz

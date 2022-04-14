@@ -1,0 +1,5 @@
+message:
+  enabled: true
+  context: "&cTrocas com villagers não são permitidas. Quer vida fácil, é?"
+disabled-worlds:
+  - example-world

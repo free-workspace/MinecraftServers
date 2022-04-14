@@ -250,10 +250,7 @@ player-commands:
 
   - pay
   
-  - tpa
-  - tpahere
-  - tpaccept
-  - tpr
+  - tp
  
   - nick
 
@@ -266,6 +263,8 @@ player-commands:
   - nick.color
 
   - motd
+
+  - signs.use.sell
 
 # Use this option to force superperms-based permissions handler regardless of detected installed perms plugin.
 # This is useful if you want superperms-based permissions (with wildcards) for custom permissions plugins.
@@ -303,9 +302,9 @@ use-nbt-serialization-in-createkit: false
 
 enabledSigns:
   - color
-  #- balance
-  #- buy
-  #- sell
+  - balance
+  - buy
+  - sell
   #- trade
   #- free
   #- warp
@@ -734,7 +733,7 @@ confirm-home-overwrite: false
 # You can control the values of items that are sold to the server by using the /setworth command.
 
 # Defines the balance with which new players begin. Defaults to 0.
-starting-balance: 1000
+starting-balance: 300
 
 # Defines the cost to use the given commands PER USE.
 # Some commands like /repair have sub-costs, check the wiki for more information.
@@ -743,13 +742,9 @@ command-costs:
   #example: 1000
   # /kit tools costs $1500 PER USE
   #kit-tools: 1500
-  pay: 5
-  blocks: 20
-  tpa: 300
-  tpahere: 300
-  tpaccept: 30
-  tpr: 150
-  nick: 700
+  blocks: 2
+  tp: 75
+  nick: 100
 
 # Set this to a currency symbol you want to use.
 # Remember, if you want to use special characters in this document, 
@@ -769,14 +764,14 @@ max-money: 10000000000000
 min-money: 0
 
 # Enable this to log all interactions with trade/buy/sell signs and sell command.
-economy-log-enabled: false
+economy-log-enabled: true
 
 # Enable this to also log all transactions from other plugins through Vault.
 # This can cause the economy log to fill up quickly so should only be enabled for testing purposes!
 economy-log-update-enabled: false
 
 # Minimum acceptable amount to be used in /pay.
-minimum-pay-amount: 0.001
+minimum-pay-amount: 0.01
 
 # Enable this to block users who try to /pay another user which ignore them.
 pay-excludes-ignore-list: false
@@ -897,11 +892,11 @@ protect:
     lava-flow: false
     water-flow: false
     water-bucket-flow: false
-    fire-spread: true
-    lava-fire-spread: true
+    fire-spread: false
+    lava-fire-spread: false
     lava-itemdamage: false
     flint-fire: false
-    lightning-fire-spread: true
+    lightning-fire-spread: false
     portal-creation: false
     tnt-explosion: false
     tnt-playerdamage: false
