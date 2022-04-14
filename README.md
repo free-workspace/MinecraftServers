@@ -9,4 +9,4 @@
 Here I drop off my minecraft servers's backups. I also take the opportunity to learn more about GitHub and perform tests.
 
 ### Servers
-- <a href="https://github.com/free-workspace/MinecraftServers/tree/main/Nubank">Nubank</a>: Spigot Server - <b>1.18.2</b>
+- <a href="https://github.com/free-workspace/MinecraftServers/tree/nubank-server/src">Nubank</a>: Spigot Server - <b>1.18.2</b>
