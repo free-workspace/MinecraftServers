@@ -6,8 +6,10 @@ logs/
 crash-reports/
 
 # Other files that aren't important:
+bundler/
 spigot.yml
 help.yml
 eula.txt
 bStats/
 PluginMetrics/
+start.*
