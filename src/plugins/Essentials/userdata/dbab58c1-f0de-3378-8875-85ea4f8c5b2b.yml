@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 25.11.33.171
+ip-address: 26.211.43.234
 afk: false
 socialspy: false
 npc: false
@@ -11,29 +11,29 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 0
+  lastteleport: 1650106420274
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1649965390449
-  login: 1649965144917
-money: '300'
+  logout: 1650396413019
+  login: 1650391135013
+money: '1055.5'
 last-account-name: iCarlyyy
 nickname: §4LuizSocafofo
 logoutlocation:
-  world: 559e5f56-c4f2-4806-a3c1-01c1731cdca7
-  world-name: Nubank
-  x: -1214.6749273739633
-  y: 68.49520087700593
-  z: 910.3263776810617
-  yaw: 29.065839767456055
-  pitch: 11.08263111114502
+  world: 671cc3e9-8bf8-4f18-bdc8-d45a11388b12
+  world-name: Nubank_nether
+  x: 671.4790916645741
+  y: 51.0
+  z: 533.1519955873333
+  yaw: -85.05322265625
+  pitch: -0.11901473999023438
 lastlocation:
   world: 559e5f56-c4f2-4806-a3c1-01c1731cdca7
   world-name: Nubank
-  x: 547.6111153246258
-  y: 68.0
-  z: 803.5399805653993
-  yaw: 87.89678955078125
-  pitch: 41.45417785644531
+  x: -377.2146549828075
+  y: -9.0
+  z: 108.90038920395583
+  yaw: 144.572509765625
+  pitch: 1.7740834951400757

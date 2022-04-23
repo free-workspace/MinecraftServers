@@ -11,20 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 0
+  lastteleport: 1650104723338
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1649563627036
-  login: 1649563663349
+  logout: 1650513097498
+  login: 1650511268067
 money: '300'
 last-account-name: iocathechef
 logoutlocation:
   world: 559e5f56-c4f2-4806-a3c1-01c1731cdca7
   world-name: Nubank
-  x: -290.96463821709267
-  y: 75.0
-  z: 174.29471218856466
-  yaw: 120.7171630859375
-  pitch: -2.4426393508911133
+  x: -292.96939998909727
+  y: 47.5
+  z: 95.16278969530475
+  yaw: 157.04185485839844
+  pitch: 25.67928123474121
+lastlocation:
+  world: 559e5f56-c4f2-4806-a3c1-01c1731cdca7
+  world-name: Nubank
+  x: -312.32499998807907
+  y: 58.25
+  z: 112.68425823998231
+  yaw: 143.43519592285156
+  pitch: 39.64206314086914

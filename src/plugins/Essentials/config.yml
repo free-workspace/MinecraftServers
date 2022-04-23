@@ -249,22 +249,19 @@ player-commands:
   - balance.others
 
   - pay
-  
-  - tp
- 
   - nick
-
   - blocks
-
   - msg
+  - motd
 
   - msg.color
   - signs.color
   - nick.color
 
-  - motd
-
   - signs.use.sell
+  - signs.use.buy
+  - signs.use.warp
+  - signs.use.repair
 
 # Use this option to force superperms-based permissions handler regardless of detected installed perms plugin.
 # This is useful if you want superperms-based permissions (with wildcards) for custom permissions plugins.
@@ -307,7 +304,7 @@ enabledSigns:
   - sell
   #- trade
   #- free
-  #- warp
+  - warp
   #- kit
   #- mail
   #- enchant
@@ -315,7 +312,7 @@ enabledSigns:
   #- heal
   #- info
   #- spawnmob
-  #- repair
+  - repair
   #- time
   #- weather
   #- anvil
@@ -743,7 +740,6 @@ command-costs:
   # /kit tools costs $1500 PER USE
   #kit-tools: 1500
   blocks: 2
-  tp: 75
   nick: 100
 
 # Set this to a currency symbol you want to use.
@@ -768,7 +764,7 @@ economy-log-enabled: true
 
 # Enable this to also log all transactions from other plugins through Vault.
 # This can cause the economy log to fill up quickly so should only be enabled for testing purposes!
-economy-log-update-enabled: false
+economy-log-update-enabled: true
 
 # Minimum acceptable amount to be used in /pay.
 minimum-pay-amount: 0.01

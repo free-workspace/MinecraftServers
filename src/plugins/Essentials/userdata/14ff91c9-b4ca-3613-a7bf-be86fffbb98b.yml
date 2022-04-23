@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 25.14.83.45
+ip-address: 26.143.41.176
 afk: false
 socialspy: false
 npc: false
@@ -11,29 +11,62 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1649752451487
+  lastteleport: 1650445187273
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1649816408440
-  login: 1649814804628
-money: '200'
+  logout: 1650492019797
+  login: 1650491451371
+money: '5059.4'
 last-account-name: Aeraky
 logoutlocation:
   world: 559e5f56-c4f2-4806-a3c1-01c1731cdca7
   world-name: Nubank
-  x: -157.91295573935474
-  y: 69.0
-  z: 198.27574551115782
-  yaw: 130.7126007080078
-  pitch: 48.27637481689453
+  x: -4722.73097077058
+  y: 63.0
+  z: -5134.430234104972
+  yaw: -133.327392578125
+  pitch: 11.30933952331543
 lastlocation:
   world: 559e5f56-c4f2-4806-a3c1-01c1731cdca7
   world-name: Nubank
-  x: -178.2149290910551
-  y: 88.55371602798215
-  z: 263.54488382601124
-  yaw: 73.48983764648438
-  pitch: 17.27306365966797
-nickname: §dBeatriz
+  x: -298.5
+  y: 71.0
+  z: 6.5
+  yaw: 131.92471313476562
+  pitch: 1.2059800624847412
+nickname: §5Nubank
+mail:
+- legacy: false
+  read: true
+  message: oi
+  sender-name: Aeraky
+  sender-uuid: 14ff91c9-b4ca-3613-a7bf-be86fffbb98b
+  timestamp: 1650190661161
+  expire: 0
+homes:
+  hja2:
+    world: 559e5f56-c4f2-4806-a3c1-01c1731cdca7
+    world-name: Nubank
+    x: -303.5
+    y: 46.5
+    z: 346.69999998807907
+    yaw: 0.0
+    pitch: 0.0
+  hja3:
+    world: 559e5f56-c4f2-4806-a3c1-01c1731cdca7
+    world-name: Nubank
+    x: -301.3672171260418
+    y: 47.0
+    z: 347.69999998807907
+    yaw: 0.0
+    pitch: 0.0
+  ilha:
+    world: 559e5f56-c4f2-4806-a3c1-01c1731cdca7
+    world-name: Nubank
+    x: -4696.878918241555
+    y: 63.0
+    z: -5119.07634152219
+    yaw: 75.5224609375
+    pitch: 25.421024322509766

@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 25.4.31.235
+ip-address: 26.82.206.149
 afk: false
 socialspy: false
 npc: false
@@ -11,29 +11,29 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1649817492628
+  lastteleport: 1650106590480
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1649964216960
-  login: 1649962577233
-money: '225'
+  logout: 1650514753195
+  login: 1650511360149
+money: '301.5'
 last-account-name: Olpenzera
 logoutlocation:
   world: 559e5f56-c4f2-4806-a3c1-01c1731cdca7
   world-name: Nubank
-  x: -260.3370917959479
-  y: 41.0
-  z: 184.0732662060357
-  yaw: -164.26580810546875
-  pitch: 24.827159881591797
+  x: 293.326741377232
+  y: 63.0
+  z: -461.193173298565
+  yaw: 159.96922302246094
+  pitch: 10.86260986328125
 nickname: §2JãoSocaFofo
 lastlocation:
   world: 559e5f56-c4f2-4806-a3c1-01c1731cdca7
   world-name: Nubank
-  x: -108.49478444989872
-  y: 61.732558685640186
-  z: 43.70735280513485
-  yaw: 78.6242446899414
-  pitch: 19.72911834716797
+  x: -130.66729834404202
+  y: 66.0
+  z: 443.5221715131065
+  yaw: 23.5523681640625
+  pitch: -15.792909622192383

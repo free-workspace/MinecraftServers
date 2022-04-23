@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 25.69.1.184
+ip-address: 26.2.241.170
 afk: false
 socialspy: false
 npc: false
@@ -16,23 +16,23 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1649816563287
-  login: 1649815261824
-money: '225'
+  logout: 1650238893662
+  login: 1650237681448
+money: '300'
 last-account-name: maduzita_
 logoutlocation:
   world: 559e5f56-c4f2-4806-a3c1-01c1731cdca7
   world-name: Nubank
-  x: 545.6842512620237
-  y: 85.0
-  z: 901.4314574772675
-  yaw: -9.401702880859375
-  pitch: 34.50801467895508
+  x: -312.25551490001163
+  y: 52.0
+  z: 86.36170807353157
+  yaw: 42.4276123046875
+  pitch: 24.15004539489746
 lastlocation:
   world: 559e5f56-c4f2-4806-a3c1-01c1731cdca7
   world-name: Nubank
-  x: -459.69999998807907
-  y: 66.0
-  z: 432.69999998807907
-  yaw: -147.903564453125
-  pitch: 7.6500678062438965
+  x: 408.05530867741896
+  y: 74.06757780600843
+  z: 649.9013570481281
+  yaw: 138.8861083984375
+  pitch: 16.650062561035156

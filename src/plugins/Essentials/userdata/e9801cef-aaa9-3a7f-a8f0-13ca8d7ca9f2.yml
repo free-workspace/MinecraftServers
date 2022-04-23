@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 25.13.243.191
+ip-address: 26.9.220.87
 afk: false
 socialspy: false
 npc: false
@@ -11,28 +11,100 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 0
+  lastteleport: 1650239419684
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1649810855326
-  login: 1649810685168
-money: '300'
+  logout: 1650239836079
+  login: 1650238924716
+money: '630'
 last-account-name: loreko
 logoutlocation:
   world: 559e5f56-c4f2-4806-a3c1-01c1731cdca7
   world-name: Nubank
-  x: -149.8203145688579
-  y: 72.0
-  z: 206.9477259061612
-  yaw: -122.44447326660156
-  pitch: 21.70414161682129
+  x: -429.1478456557756
+  y: 103.84878053826127
+  z: -0.7764912304312519
+  yaw: 139.06781005859375
+  pitch: 67.31873321533203
 lastlocation:
   world: 559e5f56-c4f2-4806-a3c1-01c1731cdca7
   world-name: Nubank
-  x: -152.5
-  y: 72.0
-  z: 206.5
-  yaw: -104.73683166503906
-  pitch: 21.005142211914062
+  x: -316.0737071141706
+  y: 93.41392182079368
+  z: 94.34600031307436
+  yaw: 158.548095703125
+  pitch: 9.540853500366211
+mail:
+- legacy: false
+  read: false
+  message: safadinhooo :3
+  sender-name: Console
+  sender-uuid: 'null'
+  timestamp: 1650101569439
+  expire: 0
+- legacy: false
+  read: false
+  message: safadinhooo :3
+  sender-name: Console
+  sender-uuid: 'null'
+  timestamp: 1650101569193
+  expire: 0
+- legacy: false
+  read: false
+  message: safadinhooo :3
+  sender-name: Console
+  sender-uuid: 'null'
+  timestamp: 1650101568942
+  expire: 0
+- legacy: false
+  read: false
+  message: safadinhooo :3
+  sender-name: Console
+  sender-uuid: 'null'
+  timestamp: 1650101568646
+  expire: 0
+- legacy: false
+  read: false
+  message: safadinhooo :3
+  sender-name: Console
+  sender-uuid: 'null'
+  timestamp: 1650101568348
+  expire: 0
+- legacy: false
+  read: false
+  message: safadinhooo :3
+  sender-name: Console
+  sender-uuid: 'null'
+  timestamp: 1650101567741
+  expire: 0
+- legacy: false
+  read: false
+  message: safadinhooo :3
+  sender-name: Console
+  sender-uuid: 'null'
+  timestamp: 1650101567393
+  expire: 0
+- legacy: false
+  read: false
+  message: safadinhooo :3
+  sender-name: Console
+  sender-uuid: 'null'
+  timestamp: 1650101567095
+  expire: 0
+- legacy: false
+  read: false
+  message: safadinhooo :3
+  sender-name: Console
+  sender-uuid: 'null'
+  timestamp: 1650101566496
+  expire: 0
+- legacy: false
+  read: false
+  message: safadinhooo :3
+  sender-name: Console
+  sender-uuid: 'null'
+  timestamp: 1650101545335
+  expire: 0
+confirm-pay: false
