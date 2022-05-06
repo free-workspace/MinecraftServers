@@ -16,26 +16,26 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1650664860504
-  login: 1650664589891
+  logout: 1650859960077
+  login: 1650855962811
 money: '1390.6'
 last-account-name: Salarc_
 logoutlocation:
   world: 559e5f56-c4f2-4806-a3c1-01c1731cdca7
   world-name: Nubank
-  x: -308.01445292598976
-  y: 76.0
-  z: 6.564814107020639
-  yaw: 164.26983642578125
-  pitch: 24.59971809387207
+  x: -299.06416659043265
+  y: 71.0
+  z: 14.96985170885705
+  yaw: 49.83062744140625
+  pitch: 24.255413055419922
 lastlocation:
-  world: 671cc3e9-8bf8-4f18-bdc8-d45a11388b12
-  world-name: Nubank_nether
-  x: 75.5
-  y: 66.0
-  z: 52.5
-  yaw: 128.69520568847656
-  pitch: 27.449987411499023
+  world: 62d2965d-d505-4610-9bc9-b72888b86498
+  world-name: Nubank_the_end
+  x: 12.664964141282637
+  y: 15.21183103681969
+  z: 1120.4656395199302
+  yaw: 80.12652587890625
+  pitch: -5.099822998046875
 mail:
 - legacy: false
   read: false

@@ -11,31 +11,31 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1650445187273
+  lastteleport: 1650771921493
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1650492019797
-  login: 1650491451371
-money: '5059.4'
+  logout: 1650771951792
+  login: 1650770287683
+money: '5359.4'
 last-account-name: Aeraky
 logoutlocation:
   world: 559e5f56-c4f2-4806-a3c1-01c1731cdca7
   world-name: Nubank
-  x: -4722.73097077058
-  y: 63.0
-  z: -5134.430234104972
-  yaw: -133.327392578125
-  pitch: 11.30933952331543
+  x: -296.6386733422403
+  y: 74.09123353126829
+  z: 16.447183764458906
+  yaw: -154.64688110351562
+  pitch: 17.908721923828125
 lastlocation:
   world: 559e5f56-c4f2-4806-a3c1-01c1731cdca7
   world-name: Nubank
-  x: -298.5
-  y: 71.0
-  z: 6.5
-  yaw: 131.92471313476562
-  pitch: 1.2059800624847412
+  x: -4694.5
+  y: 64.0
+  z: -5110.5
+  yaw: -4.9415598368796054E-6
+  pitch: 0.0
 nickname: §5Nubank
 mail:
 - legacy: false

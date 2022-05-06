@@ -16,24 +16,24 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1650396413019
-  login: 1650391135013
-money: '1055.5'
+  logout: 1650770008101
+  login: 1650769452517
+money: '755.5'
 last-account-name: iCarlyyy
 nickname: §4LuizSocafofo
 logoutlocation:
-  world: 671cc3e9-8bf8-4f18-bdc8-d45a11388b12
-  world-name: Nubank_nether
-  x: 671.4790916645741
-  y: 51.0
-  z: 533.1519955873333
-  yaw: -85.05322265625
-  pitch: -0.11901473999023438
+  world: 559e5f56-c4f2-4806-a3c1-01c1731cdca7
+  world-name: Nubank
+  x: -288.50978853291394
+  y: 71.0
+  z: 36.13007551806741
+  yaw: 42.690338134765625
+  pitch: 15.407279968261719
 lastlocation:
   world: 559e5f56-c4f2-4806-a3c1-01c1731cdca7
   world-name: Nubank
-  x: -377.2146549828075
-  y: -9.0
-  z: 108.90038920395583
-  yaw: 144.572509765625
-  pitch: 1.7740834951400757
+  x: -2317.4964391742883
+  y: -16.0
+  z: 1169.0901175830386
+  yaw: 98.98014831542969
+  pitch: 23.998750686645508

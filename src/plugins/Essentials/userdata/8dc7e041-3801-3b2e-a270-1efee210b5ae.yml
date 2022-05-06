@@ -16,24 +16,24 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1650514753195
-  login: 1650511360149
+  logout: 1650769502004
+  login: 1650767518736
 money: '301.5'
 last-account-name: Olpenzera
 logoutlocation:
-  world: 559e5f56-c4f2-4806-a3c1-01c1731cdca7
-  world-name: Nubank
-  x: 293.326741377232
-  y: 63.0
-  z: -461.193173298565
-  yaw: 159.96922302246094
-  pitch: 10.86260986328125
+  world: 62d2965d-d505-4610-9bc9-b72888b86498
+  world-name: Nubank_the_end
+  x: 77.72845927692096
+  y: 59.0
+  z: 3.0344025719309125
+  yaw: 41.714691162109375
+  pitch: 10.898015022277832
 nickname: §2JãoSocaFofo
 lastlocation:
-  world: 559e5f56-c4f2-4806-a3c1-01c1731cdca7
-  world-name: Nubank
-  x: -130.66729834404202
-  y: 66.0
-  z: 443.5221715131065
-  yaw: 23.5523681640625
-  pitch: -15.792909622192383
+  world: 62d2965d-d505-4610-9bc9-b72888b86498
+  world-name: Nubank_the_end
+  x: 93.04407069538256
+  y: 59.240647579523724
+  z: 11.910796735213147
+  yaw: -9.06524658203125
+  pitch: 43.02698516845703

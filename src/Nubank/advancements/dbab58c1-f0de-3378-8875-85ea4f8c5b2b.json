@@ -773,6 +773,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2022-04-23 20:12:26 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2022-04-09 10:43:20 -0700"
@@ -813,6 +819,7 @@
       "minecraft:witch": "2022-04-12 20:19:54 -0700",
       "minecraft:wither_skeleton": "2022-04-16 10:28:43 -0700",
       "minecraft:husk": "2022-04-09 19:03:37 -0700",
+      "minecraft:ender_dragon": "2022-04-23 20:12:26 -0700",
       "minecraft:cave_spider": "2022-04-09 18:40:04 -0700",
       "minecraft:piglin": "2022-04-09 21:34:51 -0700",
       "minecraft:enderman": "2022-04-09 21:19:45 -0700",
@@ -1123,6 +1130,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2022-04-23 20:03:33 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2022-04-09 10:50:21 -0700"
@@ -1396,6 +1409,12 @@
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2022-04-09 18:46:32 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2022-04-23 20:12:29 -0700"
     },
     "done": true
   },
@@ -2202,6 +2221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2022-04-23 20:03:40 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-04-09 18:49:48 -0700"
@@ -2301,6 +2326,12 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
     "criteria": {
       "has_deepslate_gold_ore": "2022-04-16 03:57:05 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2022-04-23 20:04:25 -0700"
     },
     "done": true
   },
@@ -3221,6 +3252,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2022-04-23 20:03:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2022-04-23 20:03:41 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2022-04-09 10:50:21 -0700"
@@ -3761,6 +3804,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2022-04-23 20:03:41 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2022-04-09 10:42:09 -0700"
@@ -3824,6 +3873,18 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-04-09 21:07:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2022-04-23 20:03:33 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2022-04-23 20:03:41 -0700"
     },
     "done": true
   },
